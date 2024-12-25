@@ -30,7 +30,7 @@ The cluster alongside its AWS components are organized into several Terraform mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/niv-devops/eks-terraform-python-rest-api.git
+   git clone https://github.com/sharon088/eks-terraform-python-rest-api.git
    cd eks-terraform-python-rest-api
    ```
 
